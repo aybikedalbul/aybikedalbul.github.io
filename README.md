@@ -1,2 +1,0 @@
-# aybikedalbul
-Kişisel Anasayfa
