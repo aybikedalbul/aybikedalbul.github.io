@@ -1,0 +1,21 @@
+.bg-aybike{
+    background-color: #6B4F4F;
+}
+.navbar-brand{
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 1.5;
+}
+.nav-link{
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.icerik{
+    margin-top: 10px;
+}
+
+.btn-sag{
+    float: right;
+}
